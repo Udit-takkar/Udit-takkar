@@ -10,9 +10,11 @@ I am C++ Programmer, Fullstack Javascript Developer and a tech enthusiast!
   <samp>
    Looking for Open-Source Projects to collaborate on.  Apart from programming, I like Books and Podcasts.
    </samp>
+ 
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=udit-takkar" alt="harshcsper" /> 
 </p>
+
 <h2 align="center"> 🔭 Technology Stack</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
@@ -27,17 +29,14 @@ I am C++ Programmer, Fullstack Javascript Developer and a tech enthusiast!
  
 </p>
 
-
-
-
-
-<img align="right" alt="GIF" src="https://general.stdcdn.com/animation_500_kkcayqws.gif" width="300" height="300" />
-
+<h2 align="center">🐦 Github Statistics </h2>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Udit-takkar&layout=compact&hide=html&theme=jolly" alt="Udit-takkar" />&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 <br/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Udit-takkar&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
+   <img align="right" alt="GIF" src="https://general.stdcdn.com/animation_500_kkcayqws.gif" width="300" height="300" />
+ 
   <summary>:zap: Top Languages </summary>
 
 <!--    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Udit-takkar)](https://github.com/anuraghazra/github-readme-stats) -->
