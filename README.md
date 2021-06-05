@@ -5,14 +5,16 @@
 <p align="center">
   <samp>
 I am a Sophmore at Maharaja Agrasen Institute of Technology currently undertaking my Bachelors in Computer Science and Engineering. 
-I am C++ Programmer, Fullstack Javascript Developer and a tech enthusiast! 
+I am <strong>C++ Programmer</strong>, <strong>Fullstack Javascript Developer</strong> and a <strong>tech enthusiast!</strong> 
   </samp><br><br>
   <samp>
    Looking for Open-Source Projects to collaborate on.  Apart from programming, I like Books and Podcasts.
-   </samp>
+   </samp>   
+  <br><br>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=udit-takkar" alt="udit-takkar" /> 
+  </p>          
  
-  <br> <br>
-  <img src="https://komarev.com/ghpvc/?username=udit-takkar" alt="harshcsper" /> 
 </p>
 
 <h2 align="center"> 🔭 Technology Stack</h2>
@@ -35,18 +37,16 @@ I am C++ Programmer, Fullstack Javascript Developer and a tech enthusiast!
 </p>
 
 <br/>
-   <img align="right" alt="GIF" src="https://general.stdcdn.com/animation_500_kkcayqws.gif" width="300" height="300" />
  
+  <img align="right" alt="GIF" src="https://general.stdcdn.com/animation_500_kkcayqws.gif" width="200" height="200" />
   <summary>:zap: Top Languages </summary>
-
-<!--    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Udit-takkar)](https://github.com/anuraghazra/github-readme-stats) -->
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Udit-takkar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Udit-takkar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
    <h2 align="center">📫 Reach out to me on</h2>
+     
 <p align="center">
-  
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/techakhil/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/techakhil_me)
-  
+   <a target="_blank"href="https://www.linkedin.com/in/udit-takkar-5457a1187/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://twitter.com/UditCodes"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
