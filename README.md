@@ -11,10 +11,23 @@ I am <strong>C++ Programmer</strong>, <strong>Fullstack Javascript Developer</st
    Looking for Open-Source Projects to collaborate on.  Apart from programming, I like Books and Podcasts.
     https://udit-takkar.vercel.app/
    </samp>  
-   
-  <br><br>
+   <br/>
+  <br/>
+  <samp>
+    Currently contributing to [MetaGame](https://github.com/MetaFam/TheGame) and other open source organisations. 
+  </samp>
+  <p align="left" >
  
-    
+  <h2 align="center" >Hackathons :- </h2> 
+   <samp>
+  <ul>
+    <li>Won First Position at CIS Hackathon organised by incubateIND and Github 2021<li/>
+     My team was amongst Top 6 teams from the total of 1878 registered teams in e-Yantra Fighting COVID-19 Hackathon orgainsed by IIT-Bombay 2021 <br/>
+    <li>Awarded Special Mention in IGDTUW Hackathon 2020</li> <br/>
+   <ul/>
+   </samp> 
+   </p>
+ 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=udit-takkar" alt="udit-takkar" /> 
   </p>          
