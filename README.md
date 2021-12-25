@@ -24,6 +24,7 @@ I am <strong>C++ Programmer</strong>, <strong>Fullstack Javascript Developer</st
     <li>Won First Position at CIS Hackathon organised by incubateIND and Github 2021<li/>
      My team was amongst Top 6 teams from the total of 1878 registered teams in e-Yantra Fighting COVID-19 Hackathon orgainsed by IIT-Bombay 2021 <br/>
     <li>Awarded Special Mention in IGDTUW Hackathon 2020</li> <br/>
+    <li>Participated Solo in BUIDL IT 2021 by Polygon and Won in two Categories :- 2nd at Moralis($3500) and Filecoin Prize Pool($250) among 5000 participants </li>
    <ul/>
    </samp> 
    </p>
