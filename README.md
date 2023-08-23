@@ -3,8 +3,7 @@
 
 <h2 align="center"> 👨‍💻 Who am I?</h2>
 <p align="center">
-  <samp>
-I am a Final year student at Maharaja Agrasen Institute of Technology currently undertaking my Bachelors in Computer Science and Engineering. 
+  <samp> 
 I am <strong>C++ Programmer</strong>, <strong>Fullstack Javascript Developer</strong> and a <strong>tech enthusiast!</strong> 
   </samp><br><br>
   <samp>
