@@ -13,7 +13,7 @@ I am <strong>C++ Programmer</strong>, <strong>Fullstack Javascript Developer</st
    <br/>
   <br/>
   <samp>
-    Currently I am contributing to <a href="https://github.com/layer5io/layer5">Layer5</a>, <a href="https://github.com/meshery/meshery">Meshery</a>.
+    Currently I am contributing to many Open Source Projects.
   </samp>
   <p align="left" >
  
